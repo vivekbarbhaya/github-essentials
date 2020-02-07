@@ -1,1 +1,1 @@
-# github-essentials
+# github-essentialsGithub for dummies
